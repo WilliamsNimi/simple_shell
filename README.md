@@ -1,2 +1,6 @@
-# simple_shell
-This is a repo to house a simple shell project created in C.
+# ALX Simple Shell Team Project
+
+Group project 2 
+👤Samir Ibrahim 
+and 
+👤Nimi Williams
