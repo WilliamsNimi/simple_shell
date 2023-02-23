@@ -12,10 +12,6 @@ int main(int ac, char **av)
 	info_t info[] = { INFO_INIT };
 	int fd = 2;
 
-	printf("#   This is a simple Shell Project    #\n");
-	printf("#   Project Partners Nimi Williams and Samir Ibrahim    #\n");
-	printf("#       You can type your commands below        #\n");
-	printf("#       Disclaimer!!!!! Type with Care!!!!        #\n");
 	asm ("mov %1, %0\n\t"
 		"add $3, %0"
 		: "=r" (fd)
